@@ -1,0 +1,9 @@
+{
+  "name": "testrepo-webapp",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "0.21.1",
+    "lodash": "4.17.20",
+    "node-fetch": "2.6.1"
+  }
+}
